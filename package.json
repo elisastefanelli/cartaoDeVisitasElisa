@@ -1,0 +1,22 @@
+{
+  "name": "stefanelli",
+  "version": "1.0.0",
+  "description": "Meu nome é Elisa Stefanelli, tenho 32 anos e sou de Porto Alegre/RS. Estou em transição de carreira, vindo do Direito e indo para T.I. Sempre gostei muito de encontrar soluções inteligentes para problemas concretos, então aproveitei o tempo na pandemia para me aprofundar nos estudos.",
+  "main": "index.js",
+  "bin": "cli.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cartao de visitas",
+    "estartando devs"
+  ],
+  "author": "Elisa Stefanelli",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.1"
+  }
+}
